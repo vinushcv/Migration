@@ -1,6 +1,6 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### NAME: SACHIN C
-### REG NO: 212222230125
+### NAME: Vinush CV
+### REG NO: 212222230176
 ## Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
